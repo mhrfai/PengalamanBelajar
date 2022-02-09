@@ -1,12 +1,18 @@
 # PengalamanBelajar
-repository ini berisi pengalaman belajarku di dicoding
 
-14 Juni 2021
-Belajar kelas memulai pemprograman dengan java. (Progres 21%)
-  * Belajar tentang apa itu java dan alasan menggunakannya.
-  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemprograman java, 
+Repository Ini Berisi Pengalaman Belajar di Dicoding
 
-15 Juni 2021
+
+**14 Juni 2021**  
+
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+
+  * Belajar tentang apa itu Java dan alasan menggunakannya.
+
+  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+
+
+**15 Juni 2021**  
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
